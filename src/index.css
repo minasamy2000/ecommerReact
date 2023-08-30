@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css?family=Calligraffitti|Mali");
+/* ganeral style */
+body {
+    font-family: "Mali", cursive;
+    font-size: 20px;
+}
+.ban{
+    position: relative;
+}
+.banner img {
+    width: 100%;
+}
+.banner-text{
+    position: absolute;
+    top: 40%;
+    left:10%
+}
+
+.navbar {
+    position: sticky;
+    top: 0;
+    color: aliceblue;
+}
